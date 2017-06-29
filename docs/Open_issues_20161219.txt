@@ -1,0 +1,2 @@
+1. In the report, instead of displaying all ASCIII links, We should display non UTF-8 (and non UTF-16 ASCII links) since these are non compliant links as per the change in the new requirement.
+2. Validation of email address should work. User should be allowed to enter double byte email address.
